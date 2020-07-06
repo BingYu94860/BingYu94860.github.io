@@ -13,15 +13,9 @@ Hello World!!
 2. 列單002
 3. 列單003
 
-- 列單001
-- 列單002
-- 列單003
+**粗體字測試**  *斜體字測試*
 
-**粗體字測試**
-
-_斜體字測試_ 
-
-```
+```python
 def print():
     return ""
 ```
@@ -29,3 +23,7 @@ def print():
 [其他網站](https://bing-yu.blogspot.com/) 
 
 ![Image](https://stickershop.line-scdn.net/stickershop/v1/product/7834/LINEStorePC/main.png;compress=true)
+
+- 列單001
+- 列單002
+- 列單003
