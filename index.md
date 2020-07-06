@@ -22,3 +22,7 @@ Hello World!!
 _斜體字測試_ 
 
 `程式碼測試`
+
+[Link](https://bing-yu.blogspot.com/) 
+
+![Image](https://stickershop.line-scdn.net/stickershop/v1/product/7834/LINEStorePC/main.png;compress=true)
