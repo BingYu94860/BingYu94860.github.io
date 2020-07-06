@@ -17,12 +17,15 @@ Hello World!!
 - 列單002
 - 列單003
 
-**粗體字測試** 
+**粗體字測試**
 
 _斜體字測試_ 
 
-`程式碼測試`
+```
+def print():
+    return ""
+```
 
-[Link](https://bing-yu.blogspot.com/) 
+[其他網站](https://bing-yu.blogspot.com/) 
 
 ![Image](https://stickershop.line-scdn.net/stickershop/v1/product/7834/LINEStorePC/main.png;compress=true)
