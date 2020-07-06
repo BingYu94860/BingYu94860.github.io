@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 
 title: 個人筆記
 description: (小小測試)
-markdown: kramdown
+kramdown:
+math_engine: mathjax
 
 gem "github-pages", group: :jekyll_plugins
