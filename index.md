@@ -4,4 +4,4 @@
 
 [其他網站](https://bing-yu.blogspot.com/) 
 
-![Image](https://stickershop.line-scdn.net/stickershop/v1/product/7834/LINEStorePC/main.png;compress=true)
+![可愛狗狗](https://images.pexels.com/photos/257540/pexels-photo-257540.jpeg)
