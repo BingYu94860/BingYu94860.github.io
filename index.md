@@ -10,6 +10,6 @@
   >
   > QR Code字串為「87654321」→「抒情」
   >
-  > 其他的 QR Code字串 為→「成功」
+  > 其他的 QR Code字串 為→「失敗」
 
 ![可愛狗狗](https://images.pexels.com/photos/257540/pexels-photo-257540.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
