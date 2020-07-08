@@ -53,13 +53,13 @@
 ```yaml
 theme: jekyll-theme-cayman #所選的主題
                            
-title: 我的部落格	 #輸入部落格標題
+title: 我的部落格     #輸入部落格標題
 subtitle: (專屬小窩)  #輸入副標題
-description: 筆記	   #輸入網站描述 
-keywords: 我的部落格	 #輸入網站關鍵字(以逗號隔開)，方便 SEO 
-author: user		#輸入姓名或暱稱
-language: zh-TW		#輸入您所使用的語言
-timezone:			#留空以使用系統時間
+description: 筆記    #輸入網站描述 
+keywords: 我的部落格  #輸入網站關鍵字(以逗號隔開) 
+author: user        #輸入姓名或暱稱
+language: zh-TW     #輸入您所使用的語言
+timezone:           #留空以使用系統時間
 ```
 
 - ### 編輯完，按下「Commit changes」，保存剛剛所寫的。
